@@ -28,13 +28,7 @@ that make an impact — from responsive websites to cross-platform mobile apps.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Antigravity](https://img.shields.io/badge/Antigravity-ff69b4?style=flat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub stats
-
-![Biswajith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BiswajithPN&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiswajithPN&layout=compact&theme=default&hide_border=true)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
