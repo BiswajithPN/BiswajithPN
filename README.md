@@ -34,7 +34,7 @@ Driven by continuous learning and innovation, I constantly explore new technolog
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajithpn)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/literallybiswajith_02)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pnbiswajith@gmail.com)&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918110061566?text=Hi%20Biswajith%2C%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!);
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918110061566?text=Hi%20Biswajith%2C%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
 
 ---
 
