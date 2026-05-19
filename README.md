@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Biswajith PN  
-💻 Software Developer | 📱 Flutter Developer | 🚀 Web & Mobile Developer  
 
 A passionate Software Developer currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science (2nd Year) at Mepco Schlenk Engineering College.  
 I specialize in building scalable web and mobile applications with clean, efficient, and maintainable code.  
