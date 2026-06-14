@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Biswajith PN.
 
-A passionate Software Developer currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science (2nd Year) at Mepco Schlenk Engineering College.  
+A passionate Software Developer currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science (3nd Year) at Mepco Schlenk Engineering College.  
 I specialize in building scalable web and mobile applications with clean, efficient, and maintainable code.  
 With a strong foundation in AI, data-driven thinking, and modern development practices, I aim to create impactful, intelligent, and user-centric digital solutions.  
 Driven by continuous learning and innovation, I constantly explore new technologies to enhance both performance and user experience.  
