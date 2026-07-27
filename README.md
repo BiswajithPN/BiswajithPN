@@ -43,8 +43,6 @@ Driven by continuous learning and innovation, I constantly explore new technolog
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BiswajithPN&theme=tokyonight)
-
 </div>
 
 <div align="center">
