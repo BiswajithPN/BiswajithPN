@@ -13,7 +13,7 @@ Driven by continuous learning and innovation, I constantly explore new technolog
 - 🔭 Building projects that combine **AI/ML with frontend web & mobile apps**
 - 🌱 Deepening my skills in **data-driven application design**
 - 👯 Open to collaborating on **AI-powered web/mobile projects**
-- 💬 Ask me about **Flutter, Python, or scalable app architecture**
+- 💬 Ask me about Java, Python, or scalable web app architecture**
 
 <img src="https://img.shields.io/github/followers/BiswajithPN?label=Followers&style=social" alt="GitHub followers"/>
 
